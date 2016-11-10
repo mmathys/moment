@@ -1,7 +1,7 @@
 {
   "name": "moment",
   "license": "MIT",
-  "main": "moment.js",
+  "main": "min/moment-with-locales.js",
   "ignore": [
     "**/.*",
     "benchmarks",
